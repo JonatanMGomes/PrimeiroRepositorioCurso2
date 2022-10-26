@@ -1,2 +1,8 @@
 Nome: Amanda
 Idade: 25
+
+rotina básica:
+Acordar, tomar café e se preparar para o trabalho;
+Trabalhar;
+Voltar para casa, organizar coisas de case e se preparar para o dia seguinte;
+Dormir;
